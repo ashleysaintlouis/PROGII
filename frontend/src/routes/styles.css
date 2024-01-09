@@ -1,0 +1,35 @@
+.imgHome{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    border: 1px;
+
+}
+
+.Home{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 2px;
+    align-items: center;
+    padding: 0 30px;
+}
+
+.ProductListHome{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.TextoSobre{
+
+    width: 80%;
+    border: 10px green;
+    align-items: center;
+}
+
+p{
+    color: black;
+}
